@@ -1,6 +1,6 @@
 # workshop-01
 ## Bài tập số 1
-Bạn hya4 sửa đoạn code phía dưới in ra kết quả đúng
+Bạn hãy sửa đoạn code phía dưới in ra kết quả đúng
 ```javascript
 var list = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 
