@@ -24,7 +24,7 @@ function getTypeOfNumber(number, callback) {
 Đoạn Code phía dưới đang gặp vấn đề
 - folder images không tồn tại, hãy tạo folder bằng code
 - "throw er; // Unhandled 'error' event"
-- Bị lỗi b?t d?ng b? khi ghi log
+- Bị lỗi bất đồng bộ khi ghi log
 - Ðang bị tình trạng callback hell
 Vui lòng xử lý chúng
 
@@ -62,7 +62,7 @@ console.log('Download finished');
 Đoạn Code phía dưới đang gặp vấn đề
 - folder new_images không tồn tại, hãy tạo folder bằng code
 - Ðang bị tình trạng callback hell
-- Hãy dùng Promise để xử lý b?t d?ng và callback hell
+- Hãy dùng Promise để xử lý bất đồng bộ và callback hell
 Vui lòng xử lý chúng
 
 ```javascript
