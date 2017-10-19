@@ -1,0 +1,14 @@
+{
+  "name": "workshop-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bai-tap-1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gm": "^1.23.0"
+  }
+}
